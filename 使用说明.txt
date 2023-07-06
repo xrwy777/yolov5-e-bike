@@ -1,0 +1,3 @@
+安装requirements
+运行main.py
+模型在weights中自行选择，默认为weights/best.pt

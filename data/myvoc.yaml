@@ -1,0 +1,12 @@
+#path: F:\\毕业设计\\test\\yolov5\\VocData  # dataset root dir
+train: .\\VocData\\train.txt # train images (relative to 'path') 128 images
+val: .\\VocData\\val.txt  # val images (relative to 'path') 128 images
+
+nc: 3
+
+# Classes
+names:
+  0: person
+  1: e_vehicle
+  2: bicycle
+  
